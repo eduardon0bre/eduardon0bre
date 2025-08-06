@@ -1,15 +1,16 @@
 name: Generate Datas
 on:
-  schedule: # execute every 12 hours
+  schedule:
     - cron: "* */12 * * *"
   workflow_dispatch:
 jobs:
   build:
+    permissions:
+      contents: write
     name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
-      # Snake Animation
-      - uses: Platane/snk@master
+      - uses: Platane/snk@v2
         id: snake-gif
         with:
           github_user_name: eduardon0bre
