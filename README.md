@@ -110,5 +110,3 @@ Profissional com habilidades em desenvolvimento web, especializado em tecnologia
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardon0bre&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
-
-![Snake animation](https://github.com/eduardon0bre/eduardon0bre/blob/output/github-contribution-grid-snake.svg)
