@@ -4,7 +4,7 @@
 <br/>
 <br/>
 
-Profissional com habilidades em desenvolvimento web, especializado em tecnologias back-end como PHP e Laravel, além de dominar front-end com HTML, CSS, JavaScript e React. Experiência em versionamento com Git e familiaridade com TypeScript e Bootstrap.
+Desenvolvedor Web com experiência prática no desenvolvimento de sistemas utilizando PHP (frameworks Laravel e Adianti), JavaScript, HTML, CSS, MySQL, Git e Docker. Experiência com arquitetura de software, versionamento de código e ambientes de desenvolvimento containerizados.
 
 ---
 ## Contatos:
@@ -109,4 +109,5 @@ Profissional com habilidades em desenvolvimento web, especializado em tecnologia
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardon0bre&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+  
 </p>
