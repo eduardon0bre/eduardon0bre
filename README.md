@@ -4,7 +4,7 @@
 <br/>
 <br/>
 
-Desenvolvedor Web com experiência prática no desenvolvimento de sistemas utilizando PHP (frameworks Laravel e Adianti), JavaScript, HTML, CSS, MySQL, Git e Docker. Experiência com arquitetura de software, versionamento de código e ambientes de desenvolvimento containerizados.
+Desenvolvedor Web com experiência em PHP (Laravel e Adianti), JavaScript, HTML, CSS, MySQL, Git e Docker.
 
 ---
 ## Contatos:
