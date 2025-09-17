@@ -7,10 +7,25 @@
 Desenvolvedor Web com experiência em PHP (Laravel e Adianti), JavaScript, HTML, CSS, MySQL, Git e Docker.
 
 ---
-## Contatos:
-<div>
-<a href = "mailto:eduardo.gnobre005@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="www.linkedin.com/in/eduardo-gomes-a90026332" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<p align="center">
+  <a href="www.linkedin.com/in/eduardo-gomes-a90026332" target="blank">
+    <img align="center"
+      src="images/social/icon_linkedin.png" alt="eduardogomes" height="35" width="35" 
+    />
+  </a>
+  <a href="mailto:eduardo.gnobre005@gmail.com" target="blank">
+    <img align="center"align="center"
+     src="images/social/icon_mail.png" alt="eduardogomes" height="35" width="35" 
+    />
+  </a>
+</p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=eduardon0bre&label=Profile%20views&color=0e75b6&style=flat" alt="rescenic" /> </p>
+
+![](https://hit.yhype.me/github/profile?user_id=70995453)
+
+<div align="center">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardon0bre&layout=compact&theme=apprentice" alt="eduardoG" />
 </div>
 
 
@@ -74,24 +89,5 @@ Desenvolvedor Web com experiência em PHP (Laravel e Adianti), JavaScript, HTML,
 />
 
 <br/>
-<br/>
 
-### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=eduardon0bre&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardon0bre&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-  
-</p>
